@@ -12,6 +12,7 @@ module.exports = {
             ['/webpack', 'webpack配置'],
             ['/githubpage', 'github page 部署'],
             ['/iconfont', '文字图标的使用'],
+            ['/miniPrograme', '小程序开发总结']
           ]
       },
 
