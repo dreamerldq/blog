@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /hero.png
+heroImage: http://oli7sq88l.bkt.clouddn.com/ldq.png
 actionText: 进入博客
 actionLink: /webpack
 ---
