@@ -13,7 +13,8 @@ module.exports = {
             ['/redux', 'Redux源码解析'],
             ['/wixinqr', '微信小程序二维码生成'],
             ['/webpack-vue', 'webpack-vue环境配置'],
-            ['/egg', 'egg框架']
+            ['/egg', 'egg框架'],
+            ['/eslint', '微信小程序eslint配置']
           ]
       },
 
