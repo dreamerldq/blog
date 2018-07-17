@@ -15,6 +15,7 @@ module.exports = {
             ['/webpack-vue', 'webpack-vue环境配置'],
             ['/egg', 'egg框架'],
             ['/eslint', '微信小程序eslint配置']
+            ['/originTodo', '原生实现TodoList']
           ]
       },
 
