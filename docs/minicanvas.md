@@ -29,3 +29,6 @@ wx.canvasPutImageData(OBJECT, this)这个方法需要在建议在draw回调函�
 然后将node_modules 中uping-js 和 pako两个文件移动到微信小程序的utils目录中，确保 UPNG.JS和PAKO.JS两个文件在同一个文件夹下
 然后在需要用到upng的地方使用require的方式引入
 ``` const upng = require('../../utils/upng-js/UPNG.js');
+
+## cnavas生成图片
+``` 微信小程序提供了wx.canvasToTempFilePath(OBJECT, this)这个方法用来生成图。次方法也在dra回调函数中调用就行。需要注意的是，canvas默认背景色是黑色，所以需要是使用其他颜色的底色，需要使用 ctx.setFillStyle('#ffffff') 和 ctx.fillRect(0, 0, width, height); 将背景色做转换。
