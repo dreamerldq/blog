@@ -6,6 +6,7 @@
 ## canvas输出信息的获取
 wx.canvasPutImageData(OBJECT, this)这个方法需要在建议在draw回调函数中调用
 ```
+```
  drawBase64(ctx) {  // ctx 是指创建的canvas对象
     const { width, height } = this.data; // width 和 height 指需要生成的图片的尺寸
     const _this = this;

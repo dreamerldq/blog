@@ -6,6 +6,7 @@ module.exports = {
           { text: '我的Github', link: 'https://github.com/dreamerldq' },
         ],
         sidebar: [
+            '/',
             ['/webpack', 'webpack-react-ts配置'],
             ['/githubpage', 'github page 部署'],
             ['/iconfont', '文字图标的使用'],
@@ -14,8 +15,10 @@ module.exports = {
             ['/wixinqr', '微信小程序二维码生成'],
             ['/webpack-vue', 'webpack-vue环境配置'],
             ['/egg', 'egg框架'],
-            ['/eslint', '微信小程序eslint配置']
-            ['/originTodo', '原生实现TodoList']
+            ['/eslint', '微信小程序eslint配置'],
+            // ['/originTodo', '原生实现TodoList']
+            ['/H5_Video','H5录制视频'],
+            ['/minicanvas','微信小程序canvas生成图片转base64']
           ]
       },
 
