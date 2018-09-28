@@ -18,7 +18,8 @@ module.exports = {
             ['/eslint', '微信小程序eslint配置'],
             // ['/originTodo', '原生实现TodoList']
             ['/H5_Video','H5录制视频'],
-            ['/minicanvas','微信小程序canvas生成图片转base64']
+            ['/minicanvas','微信小程序canvas生成图片转base64'],
+            ['/webaudio', 'web audio api 绘制频率图']
           ]
       },
 
