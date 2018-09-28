@@ -13,7 +13,7 @@ module.exports = {
             ['/miniPrograme', '小程序开发总结'],
             ['/redux', 'Redux源码解析'],
             ['/wixinqr', '微信小程序二维码生成'],
-            ['/webpack-vue', 'webpack-vue环境配置'],
+            ['/webpack-vue', 'webpack-vue多页面配置'],
             ['/egg', 'egg框架'],
             ['/eslint', '微信小程序eslint配置'],
             // ['/originTodo', '原生实现TodoList']
