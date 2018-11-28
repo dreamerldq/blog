@@ -19,7 +19,10 @@ module.exports = {
             // ['/originTodo', '原生实现TodoList']
             ['/H5_Video','H5录制视频'],
             ['/minicanvas','微信小程序canvas生成图片转base64'],
-            ['/webaudio', 'web audio api 绘制频率图']
+            ['/webaudio', 'web audio api 绘制频率图'],
+            ['/globalNotice', 'React全局通知组件的实现'],
+            ['/cssinjs', 'css in js在React中的使用'],
+            ['/React.cloneElement','React.cloneElement实现单选框组']
           ]
       },
 
