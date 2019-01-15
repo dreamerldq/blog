@@ -1,6 +1,6 @@
 module.exports = {
-    title: '李丹秋技术博客',
-    description: '李丹秋技术博客，内容多以工作学习中的实践经验为主，主要侧重于前端方向',
+    title: '素妆技术博客',
+    description: '技术博客，内容多以工作学习中的实践经验为主，主要侧重于前端方向',
     themeConfig: {
         nav: [
           { text: '我的Github', link: 'https://github.com/dreamerldq' },
@@ -22,7 +22,9 @@ module.exports = {
             ['/webaudio', 'web audio api 绘制频率图'],
             ['/globalNotice', 'React全局通知组件的实现'],
             ['/cssinjs', 'css in js在React中的使用'],
-            ['/React.cloneElement','React.cloneElement实现单选框组']
+            ['/React.cloneElement','React.cloneElement实现单选框组'],
+            ['/mobile','移动端适配（H5 and RN）'],
+            ['/Nginx','Nginx配置']
           ]
       },
 
