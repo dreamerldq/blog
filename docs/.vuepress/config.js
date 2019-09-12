@@ -24,7 +24,8 @@ module.exports = {
             ['/cssinjs', 'css in js在React中的使用'],
             ['/React.cloneElement','React.cloneElement实现单选框组'],
             ['/mobile','移动端适配（H5 and RN）'],
-            ['/Nginx','Nginx配置']
+            ['/Nginx','Nginx配置'],
+            ['/browserCache','浏览器缓存机制']
           ]
       },
 
