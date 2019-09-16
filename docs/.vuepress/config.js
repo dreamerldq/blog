@@ -25,7 +25,10 @@ module.exports = {
             ['/React.cloneElement','React.cloneElement实现单选框组'],
             ['/mobile','移动端适配（H5 and RN）'],
             ['/Nginx','Nginx配置'],
-            ['/browserCache','浏览器缓存机制']
+            ['/browserCache','浏览器缓存机制'],
+            ['/Flutter', 'Flutter入门'],
+
+
           ]
       },
 
